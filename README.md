@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V037
 - 👀 I’m interested in Robotics and Unity
-- 🌱 I’m currently learning C, C#, PYTHON
+- 🌱 I’m currently learning C, C#, PY, JS
 - 💞️ I’m looking for money
-- 📫 How to reach me: Discord - ♤ √.037_ ♫#7038
+- 📫 How to reach me: Nevermind
 
