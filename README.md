@@ -8,4 +8,4 @@
 - 📫 How to reach me: Discord/V037
 ```
 
-<img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=gelbooru"> 
+<img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
