@@ -5,4 +5,7 @@
 - 📫 How to reach me: Discord/V037
 
 
+[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
+
+
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=gelbooru">
