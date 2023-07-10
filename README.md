@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 - 👋 Hi, I’m @V037
 - 👀 I’m into |Electronics and Robotics| + |Unity and bevy game development|
 - 🌱 I’m currently learning: |C#, C++, PY, JS, 🦀|
