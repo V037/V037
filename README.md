@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?V037&style=flat&color-00d6b3)
+![](https://komarev.com/ghpvc/?V037&style=flat-square&color-00d6b3)
 - 👋 Hi, I’m @V037
 - 👀 I’m into |Electronics and Robotics| + |Unity and bevy game development|
 - 🌱 I’m currently learning: |C#, C++, PY, JS, 🦀|
