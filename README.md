@@ -4,7 +4,7 @@
 - 💞️ I’m looking for something that still doesn't exist...
 - 📫 How to reach me: Discord/V037
 
-[![Years Badge](https://badges.pufler.dev/years/V037)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/V037)](https://badges.pufler.dev)  <img src="https://img.shields.io/github/stars/V037/badge-it?color=brightgreen" alt="GitHub stars">
+[![Years Badge](https://badges.pufler.dev/years/V037)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/V037)](https://badges.pufler.dev)  [![Gists Badge](https://badges.pufler.dev/gists/V037)](https://badges.pufler.dev)
 
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=gelbooru"> 
