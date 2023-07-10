@@ -4,4 +4,4 @@
 - 💞️ I’m looking for something that still doesn't exist...
 - 📫 How to reach me: Discord/V037
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{V037}/count.svg)
