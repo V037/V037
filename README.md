@@ -1,4 +1,4 @@
-[![Years Badge](https://badges.pufler.dev/years/V037)](https://badges.pufler.dev)  [![Repos Badge](https://badges.pufler.dev/repos/V037)](https://badges.pufler.dev)  [![Gists Badge](https://badges.pufler.dev/gists/V037)](https://badges.pufler.dev)
+<img src="https://badges.pufler.dev/years/V037" alt="Visits Badge">  [![Repos Badge](https://badges.pufler.dev/repos/V037)](https://badges.pufler.dev)  [![Gists Badge](https://badges.pufler.dev/gists/V037)](https://badges.pufler.dev)
 
 ```cs
 - 👋 Hi, I’m @V037
