@@ -3,7 +3,8 @@
 ```cs
 - 👋 Hi, I’m @V037
 - 👀 I’m into |Electronics and Robotics| + |Unity and bevy game development|
-- 🌱 I’m currently learning: |C#, C++, PY, JS, 🦀, glsl|
+- 🌱 I’m currently learning: |C#, C++, ![image](https://github.com/V037/V037/assets/69222741/53110c99-5237-42d0-a95f-905641275550)
+, JS, 🦀, glsl|
 - 💞️ I’m looking for something that still doesn't exist...
 - 📫 How to reach me: Discord/V037
 ```
