@@ -1,6 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
 
-```cs
+```cpp
 - 👋 Hi, I’m @V037
 - 👀 I’m into |Electronics and Robotics| + |Unity and bevy game development|
 - 🌱 I’m currently learning: |C#, C++, 🐍, JS, 🦀, glsl|
