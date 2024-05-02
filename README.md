@@ -1,4 +1,4 @@
-<img alr="https://badges.pufler.dev/years/V037" alt="Visits Badge">  <img src="https://badges.pufler.dev/repos/V037" alt="Repos Badge">  <img src="https://badges.pufler.dev/gists/V037" alt="Gists Badge">
+<img alt="https://badges.pufler.dev/years/V037" alt="Visits Badge">  <img src="https://badges.pufler.dev/repos/V037" alt="Repos Badge">  <img src="https://badges.pufler.dev/gists/V037" alt="Gists Badge">
 <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
 
 ```cs
