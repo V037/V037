@@ -3,7 +3,7 @@
 ```cpp
 - 👋 Hi, I’m @V037
 - 👀 I’m into |Electronics and Robotics| + |Unity and bevy game development|
-- 🌱 I’m currently learning: |C#, C++, 🦀, 🐍, JS, glsl|
+- 🌱 I know these programming languages: |C#, C++, 🦀, 🐍, JS, glsl|
 - 💞️ I’m looking for something that still doesn't exist...
 ```
 
