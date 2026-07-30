@@ -16,20 +16,6 @@
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br />
-  <!-- PCB & EDA Software -->
-  <img src="https://img.shields.io/badge/KICAD-316192?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/ALTIUM_DESIGNER-A5A5A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
-  <!-- OS -->
-  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <br />
-  <!-- Microcontrollers & Hardware -->
-  <img src="https://img.shields.io/badge/RASPBERRY_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E6352F?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
 </p>
 
 <br />
