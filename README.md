@@ -35,11 +35,11 @@
 
 <h3 align="center">VISITS: </h3>
 <p align="center">
-  <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=nixietube-1">
+  <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 </p>
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
-  <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-orange">
+  <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-blue">
 </p>
 
 <p align="center">
