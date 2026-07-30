@@ -6,7 +6,7 @@
 - 🌱 I know these programming languages: |C#, C++, 🦀, 🐍, JS, glsl|
 - 💞️ I’m looking for something that still doesn't exist...
 ```
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20V037!&fontSize=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&width=435&lines=Game+Developer;Electronics+%26+Robotics;C%2B%2B+%7C+Rust+%7C+C%23)
 
 <img alt="GitHub followers" src="https://img.shields.io/badge/VISITS:-brightgreen?style=for-the-badge">
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
