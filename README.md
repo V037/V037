@@ -11,6 +11,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <br />
   <img src="https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -18,9 +20,6 @@
   <br />
   <img src="https://img.shields.io/badge/UNITY-101010?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br />
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
