@@ -7,7 +7,7 @@
 - 💞️ I’m looking for something that still doesn't exist...
 ```
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&width=435&lines=Game+Developer;Electronics+%26+Robotics;C%2B%2B+%7C+Rust+%7C+C%23)
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=V037&theme=dark)](https://wakatime.com/@V037)
+![Header Mesh](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=V037&fontSize=70&animation=twinkling)
 
 <img alt="GitHub followers" src="https://img.shields.io/badge/VISITS:-brightgreen?style=for-the-badge">
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
