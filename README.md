@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Knowledge;Competence;Colture;Prestige;Mastery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Knowledge;Competence%3A;Colture%3A;Prestige%3A;Mastery%3A" alt="Typing SVG" />
 </p>
 </p>
 <p align="center">
