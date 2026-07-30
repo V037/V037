@@ -40,6 +40,7 @@
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
   <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-orange">
+  <img alt="Readme size" src="https://img.shields.io/github/languages/code-size/V037/V037">
 </p>
 
 <p align="center">
