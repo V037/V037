@@ -50,3 +50,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&height=50&lines=Status%3A+Online" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
+</p>
+
