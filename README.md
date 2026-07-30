@@ -7,9 +7,7 @@
   </a>
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=V037&theme=flat&column=6&margin-w=15&margin-h=15" alt="V037 Trophies" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+profile!;Electronics+%26+Robotics;Game+Dev+(Unity+%2B+Bevy);C%2B%2B+%7C+Rust+%7C+GLSL" />
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
