@@ -6,7 +6,7 @@
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=Rust//%20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=Rust%20 %7C C++ %20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
