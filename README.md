@@ -17,6 +17,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Unity+%7C+Arduino+%7C+Windows+%7C+Linux" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
   <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-orange">
 </p>
