@@ -1,11 +1,11 @@
 <!-- Header Mesh -->
-![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
+![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=75)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,100:18181b&height=100&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=22&fontColor=56F0C1&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Divider 1 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=75&section=footer" width="100%" />
 
 
 <p align="center">
@@ -30,11 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=20" width="100%" />
 
-<p align="center">
-  <font size="6">
-    <b VISITS: /b>
-  </font>
-</p>
+<h1 align="center">VISITS: </h1>
 <p align="center">
   <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 </p>
