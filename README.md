@@ -26,7 +26,7 @@
 
 <!-- SECTION 2: ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
 </p>
 
 <p align="center">
@@ -34,8 +34,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10" width="100%" />
 </p>
+
 <h3 align="center">VISITS: </h3>
 <p align="center">
   <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
