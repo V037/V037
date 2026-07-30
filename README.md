@@ -6,7 +6,7 @@
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Rust+%7C+C%2B%2B+%7C+C%23+%7C+Python" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=80&text=GAME%20DEV%20%26%20ROBOTICS&fontSize=28&fontColor=00FF9D&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
