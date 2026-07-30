@@ -9,10 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Knowledge;Competence%3A;Colture%3A;Prestige%3A;Mastery%3A" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&height=50&lines=Status%3A+Online;Skills%3A+Rust+%7C+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Skills%3A;Knowledge%3A;Competence%3A;Colture%3A;Prestige%3A;Mastery%3A" alt="Typing SVG" />
 </p>
 </p>
 <p align="center">
@@ -38,5 +35,9 @@
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
   <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-orange">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&height=50&lines=Status%3A+Online" alt="Typing SVG" />
 </p>
 
