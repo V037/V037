@@ -1,6 +1,13 @@
+<!-- Top Neon Line -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10" width="100%" />
+
+<!-- Centered Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=110&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=20&fontColor=56F0C1&stroke=56F0C1&strokeWidth=2&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=22&fontColor=56F0C1&animation=twinkling" width="100%" />
 </p>
+
+<!-- Bottom Neon Line -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Skills%3A;Knowledge%3A;Competence%3A;Colture%3A;Prestige%3A;Mastery%3A" alt="Typing SVG" />
