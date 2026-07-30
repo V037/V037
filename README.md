@@ -24,10 +24,4 @@
 <!-- Divider 2 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,py,js,unity,electronics,arduino,godot,linux&theme=dark&perline=5" />
-  </a>
-</p>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
