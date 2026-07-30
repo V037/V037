@@ -24,10 +24,6 @@
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&lines=Unity+%7C+Arduino+%7C+Windows+%7C+Linux" alt="Typing SVG" />
-</p>
 <!-- Divider 2 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
 
