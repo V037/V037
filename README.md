@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![3D Graph](https://raw.githubusercontent.com/V037/V037/main/profile-3d-contrib/profile-night-view.svg)
+![Discord Presence](https://lanyard.cnrad.dev/api/v037)
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
