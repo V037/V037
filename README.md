@@ -9,5 +9,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&width=435&lines=Game+Developer;Electronics+%26+Robotics;C%2B%2B+%7C+Rust+%7C+C%23)
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=V037&fontSize=70&animation=twinkling)
 
-<img alt="GitHub followers" src="https://img.shields.io/badge/VISITS:-brightgreen?style=for-the-badge">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,py,js,unity,electronics,bot&theme=dark" />
+  </a>
+</p>
+
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
