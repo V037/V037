@@ -7,7 +7,18 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+my+profile!;Electronics+%26+Robotics;Game+Dev+(Unity+%2B+Bevy);C%2B%2B+%7C+Rust+%7C+GLSL" />
+name: Generate Breakout Game
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cyprieng/github-breakout@v1
+        with:
+          github_username: V037
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
