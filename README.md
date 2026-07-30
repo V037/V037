@@ -7,7 +7,9 @@
   </a>
 </p>
 
-![Discord Presence](https://lanyard.cnrad.dev/api/v037)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=V037&theme=flat&column=6&margin-w=15&margin-h=15" alt="V037 Trophies" />
+</a>
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
