@@ -1,7 +1,3 @@
-<table align="center" width="100%">
-  <tr>
-    <td align="center" background="https://raw.githubusercontent.com/Yu-Gou/Yu-Gou/main/assets/space.gif">
-      <br />
 <!-- Header Mesh -->
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 <p align="center">
@@ -29,7 +25,3 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
-<br /><br />
-    </td>
-  </tr>
-</table>
