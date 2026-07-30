@@ -1,7 +1,7 @@
 <!-- Header Mesh -->
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=120&text=Electronics%20%26%20Robotics%20Engineer%0AApp%20Developer%20%7C%20Game%20Developer&fontSize=22&fontColor=fff&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Electronics+%26+Robotics+Engineer;App+Developer;Game+Developer" />
 </p>
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
