@@ -1,11 +1,6 @@
-<!-- Header Mesh -->
-![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=75)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=22&fontColor=56F0C1&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=180&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=22&fontColor=ffffff&animation=twinkling&section=header" width="100%" />
 </p>
-<!-- Divider 1 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=75&section=footer" width="100%" />
-
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=50&lines=Skills%3A;Knowledge%3A;Competence%3A;Colture%3A;Prestige%3A;Mastery%3A" alt="Typing SVG" />
