@@ -6,5 +6,5 @@
 - 🌱 I know these programming languages: |C#, C++, 🦀, 🐍, JS, glsl|
 - 💞️ I’m looking for something that still doesn't exist...
 ```
-<img alt="GitHub followers" src="">
+<img alt="GitHub followers" src="https://img.shields.io/badge/VISITS:-brightgreen?style=for-the-badge">
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
