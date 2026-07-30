@@ -9,16 +9,32 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=40&lines=%3E_Primary+Tech+Stack;%3E_Tools+%26+Platforms;%3E_System+Competencies" alt="Typing SVG" />
 </p>
-
 <p align="center">
+  <!-- Core Fields & Theory -->
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATH-00599C?style=for-the-badge&logo=mathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/MECHANICS-333333?style=for-the-badge&logo=gear&logoColor=white" />
+  <br />
+  <!-- Microcontrollers & Hardware -->
+  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E6352F?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/RASPBERRY_PI-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+  <br />
+  <!-- PCB & EDA Software -->
+  <img src="https://img.shields.io/badge/KICAD-316192?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/ALTIUM_DESIGNER-A5A5A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <br />
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <!-- Engines, Platforms & Tools -->
   <img src="https://img.shields.io/badge/UNITY-101010?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
