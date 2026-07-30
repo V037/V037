@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cs,cpp,py,unity,arduino,godot,linux&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=rust,cs,cpp,py,unity,arduino,windows,linux&theme=dark&perline=4" />
   </a>
 </p>
 
