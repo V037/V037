@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=180&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=22&fontColor=ffffff&animation=twinkling&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=110&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20PROGRAMMING&fontSize=20&fontColor=56F0C1&stroke=56F0C1&strokeWidth=2&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
