@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=V037%20//%20SYSTEM%20ONLINE&line1=GAME_DEV,ELECTRONICS&line2=RUST,CPP,CS,PYTHON&theme=tokyonight&line1Color=56F0C1&line2Color=FF9E64" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=120&text=GAME%20DEV%20%7C%20ROBOTICS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Gradient Animated Text" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white" />
