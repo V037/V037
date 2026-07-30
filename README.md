@@ -35,7 +35,7 @@
 
 <h3 align="center">VISITS: </h3>
 <p align="center">
-  <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
+  <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=nixietube-1">
 </p>
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
