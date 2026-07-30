@@ -26,9 +26,15 @@
 <!-- Divider 2 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
 
-
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
+
+<p align="center">
+  <font size="6">
+    <bVISITS:/b>
+  </font>
+</p>
 <p align="center">
   <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 </p>
