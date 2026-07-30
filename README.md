@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Game+Developer;App+%26+Developer;Electronics+%26+Robotics;Rust+%7C+C%2B%2B+%7C+C%23" alt="Typing SVG" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edd05fc.gif" width="100%" />
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,cs,cpp,py,unity,arduino,windows,linux&theme=dark&perline=4" />
@@ -25,5 +23,11 @@
 
 <!-- Divider 2 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust,py,js,unity,electronics,arduino,godot,linux&theme=dark&perline=5" />
+  </a>
+</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
