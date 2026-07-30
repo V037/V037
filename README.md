@@ -7,18 +7,7 @@
   </a>
 </p>
 
-name: Generate Breakout Game
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: cyprieng/github-breakout@v1
-        with:
-          github_username: V037
+![Breakout Game](https://raw.githubusercontent.com/V037/V037/main/output/github-breakout-dark.svg)
 
 <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> <img alt="any text: you like" src="https://img.shields.io/badge/I_am-atomic-orange">
