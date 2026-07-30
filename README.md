@@ -1,5 +1,5 @@
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&width=435&lines=Game+Developer;Electronics+%26+Robotics;C%2B%2B+%7Rust+C+%7C+C%23)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&width=435&lines=Game+Developer;Electronics+%26+Robotics;Rust%2B%2B+%7+C+%7C+C%23)
 
 <p align="left">
   <a href="https://skillicons.dev">
