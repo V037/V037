@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Unity+%7C+Arduino+%7C+Windows+%7C+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&lines=Unity+%7C+Arduino+%7C+Windows+%7C+Linux" alt="Typing SVG" />
 </p>
 
 <p align="center">
