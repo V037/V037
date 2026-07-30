@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=180&text=V037%20%7C%20Game%20%26%20Robotics%20Dev&fontSize=28&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
+
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 
 <p align="center">
