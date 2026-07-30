@@ -1,17 +1,8 @@
 <!-- Header Mesh -->
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Game+Developer;App+%26+Developer;Electronics+%26+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=56F0C1&multiline=true&width=500&height=100&lines=Electronics+%26+Robotics+Engineer;App+Developer;Game+Developer" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=V037%20//%20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=56F0C1&multiline=true&width=500&height=100&lines=Electronics+%26+Robotics+Engineer;App+%26+Developer;Game+Developer" />
-</p>
-
-
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 <p align="center">
