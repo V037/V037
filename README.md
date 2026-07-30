@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:09090b,100:18181b&height=100&text=ELECTRONICS%20%7C%20ROBOTICS%20%7C%20GAME%20DEV&fontSize=22&fontColor=56F0C1&animation=fadeIn" width="100%" />
 </p>
-<!-- Divider 1 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=120&text=GAME%20DEV%20%7C%20ROBOTICS&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" alt="Gradient Animated Text" />
@@ -22,6 +21,9 @@
 </p>
 <!-- Divider 2 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=30" width="100%" />
+
+<!-- Divider 1 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
 <p align="center">
