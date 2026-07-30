@@ -6,7 +6,10 @@
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=Rust%20 %7C C++ %20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
+  <img src="https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-purple?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 <p align="center">
