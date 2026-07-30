@@ -13,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cpp,cs,py,unity,arduino,windows,linux&theme=dark&perline=4" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10,30,50&height=120&text=GAME%20DEV%20%7C%20ROBOTICS&fontSize=22&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
