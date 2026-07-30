@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=V037%20//%20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
+</p>
 <!-- Header Mesh -->
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 <p align="center">
@@ -5,12 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=56F0C1&multiline=true&width=500&height=100&lines=System.Init();Building+Robotics+%26+Games...;Ready." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=56F0C1&multiline=true&width=500&height=100&lines=Electronics+%26+Robotics;App+%26+Developer;Game+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111827&height=80&text=V037%20//%20DEV&fontSize=32&fontColor=56F0C1&animation=twinkling" width="100%" />
-</p>
 
 <!-- Divider 1 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
