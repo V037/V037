@@ -1,7 +1,7 @@
 ![Header Mesh](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100)
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&lines=Game+Developer;App+%26+Developer;Electronics+%26+Robotics;Rust+%7C+C%2B%2B+%7C+C%23)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Game+Developer;App+%26+Developer;Electronics+%26+Robotics;Rust+%7C+C%2B%2B+%7C+C%23" alt="Typing SVG" />
 </p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=V037&theme=react-dark&hide_border=true&area=true)
