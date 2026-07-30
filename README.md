@@ -39,7 +39,6 @@
 </p>
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/V037"> 
-  <img alt="Badge" src="https://img.shields.io/badge/I_am-atomic-blue">
 </p>
 
 <p align="center">
