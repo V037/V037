@@ -6,7 +6,7 @@
 </p>
 
 <!-- Divider 1 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=50&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=100&section=footer" width="100%" />
 
 <p align="center">
   <a href="https://skillicons.dev">
