@@ -10,15 +10,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=56F0C1&center=true&vCenter=true&width=600&height=40&lines=%3E_Primary+Tech+Stack;%3E_Tools+%26+Platforms;%3E_System+Competencies" alt="Typing SVG" />
 </p>
 <p align="center">
-  <!-- Core Fields & Theory -->
-  
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <br />
-  <!-- Languages -->
+  <!-- Languages + Competences -->
   <img src="https://img.shields.io/badge/RUST-orange?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <br />
   <!-- PCB & EDA Software -->
   <img src="https://img.shields.io/badge/KICAD-316192?style=for-the-badge&logo=kicad&logoColor=white" />
