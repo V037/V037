@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=56F0C1&center=true&vCenter=true&width=435&lines=Game+Developer;App+%26+Developer;Electronics+%26+Robotics;Rust+%7C+C%2B%2B+%7C+C%23" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edd05fc.gif" width="100%" />
 
 <p align="center">
   <a href="https://skillicons.dev">
