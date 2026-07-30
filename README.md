@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <!-- PCB & EDA Software -->
   <img src="https://img.shields.io/badge/KICAD-316192?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/ALTIUM_DESIGNER-A5A5A5?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
