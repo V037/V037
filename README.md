@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10" width="100%" />
 </p>
 
