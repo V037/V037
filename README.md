@@ -16,23 +16,6 @@
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<br />
-
-<!-- SECTION 2: ACTIVITY GRAPH -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10&section=footer" width="100%" />
 </p>
-
-<h3 align="center">VISITS: </h3>
-<p align="center">
-  <img id="result" style="display: block;" src="https://count.getloli.com/get/@V037?theme=rule34">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=56F0C1&center=true&vCenter=true&width=500&height=50&lines=Readme+status%3A+Online" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=56F0C1&height=10" width="100%" />
-</p>
-
